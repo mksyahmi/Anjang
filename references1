@@ -18,6 +18,9 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71146
 #EXTINF:-1g-id="TVNPremiumIndonesia.kr"g-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="1) AYOI",TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",ASTRO WARNA
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/1706
 -------------------------AYOI---------------------
 
 
